@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>426912629900-entss8jl9h5qurbcqqkbget7m7d5nvce.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.426912629900-entss8jl9h5qurbcqqkbget7m7d5nvce</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCmt0aaPNGP8gmeWusLSyfHnYDIG6u_vjk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>426912629900</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>benAltschuler.HAssassins</string>
+	<key>PROJECT_ID</key>
+	<string>assassinsapp-fbb4f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>assassinsapp-fbb4f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:426912629900:ios:555554aa7af0701d0267a9</string>
+	<key>DATABASE_URL</key>
+	<string>https://assassinsapp-fbb4f.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0612C1C0-56ED-4B57-99D7-6A028AB2383F"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9F37734E-F105-487C-9E37-A84A7A4637CD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HAssassins/GamesTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "137"
+            endingLineNumber = "137"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9F37734E-F105-487C-9E37-A84A7A4637CD - 8448c6fc13bf81ad"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HAssassins.GamesTableViewController.addUser(game: HAssassins.Game) -&gt; ()"
+                  moduleName = "HAssassins"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/baltschuler/Desktop/HAssassins%202%203%202/HAssassins/GamesTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "604">
+               </Location>
+               <Location
+                  uuid = "9F37734E-F105-487C-9E37-A84A7A4637CD - 21f4de3bc90d8d84"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in HAssassins.GamesTableViewController.addUser(game: HAssassins.Game) -&gt; ()"
+                  moduleName = "HAssassins"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/baltschuler/Desktop/HAssassins%202%203%202/HAssassins/GamesTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "95">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
